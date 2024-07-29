@@ -87,7 +87,7 @@
 - **Software as a Service (SaaS)**
   - Completed product that is run and managed by the service provider
 
-![Cloud Models](../images/cloud_models.jpg)
+![Uploading image.png…]()
 
 ### Example of Cloud Computing Types
 
