@@ -87,7 +87,7 @@
 - **Software as a Service (SaaS)**
   - Completed product that is run and managed by the service provider
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d8e91dd6-8d46-4e04-ae08-e749ffea6eeb)
 
 ### Example of Cloud Computing Types
 
@@ -179,6 +179,5 @@ If you need to launch a new application, where should you do it?
 - CUSTOMER = RESPONSIBILITY FOR THE SECURITY **IN** THE CLOUD
 - AWS = RESPONSIBILITY FOR THE SECURITY **OF** THE CLOUD
 
-![Shared Responsibility Model](../images/Shared_Responsibility_Model.jpg)
+![Uploading image.png…]()
 
-* * *
