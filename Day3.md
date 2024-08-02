@@ -295,3 +295,5 @@ t2.micro is part of the AWS free tier (up to 750 hours per month)
 - EC2 Instance Role: link to IAM roles
 - Purchasing Options: On-Demand, Spot, Reserved (Standard + Convertible + Scheduled), Dedicated Host, Dedicated Instance
 
+
+https://natworked.medium.com/creating-an-aws-ec2-instance-with-bash-user-data-script-to-install-apache-web-server-34cb4ba160bf
