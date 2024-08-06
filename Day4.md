@@ -1,5 +1,7 @@
 # EC2 Instance Storage
 
+There are three main cloud storage types: object storage, file storage, and block storage.
+
 - [EC2 Instance Storage](#ec2-instance-storage)
   - [EBS Volumes](#ebs-volumes)
     - [What’s an EBS Volume?](#whats-an-ebs-volume)
